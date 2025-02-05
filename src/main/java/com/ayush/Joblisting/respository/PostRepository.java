@@ -1,4 +1,4 @@
-package com.ayush.Joblisting;
+package com.ayush.Joblisting.respository;
 
 import com.ayush.Joblisting.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
